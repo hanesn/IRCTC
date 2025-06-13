@@ -1,0 +1,72 @@
+[
+    {
+        "password": null,
+        "user_id": "abcdef",
+        "name": "james",
+        "hashed_password": "12345",
+        "tickets_booked": [
+            {
+                "train": {
+                    "seats": [
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    ],
+                    "stations": [
+                        "bangalore",
+                        "jaipur",
+                        "delhi"
+                    ],
+                    "train_id": "bacs",
+                    "train_no": 12345,
+                    "station_time": {
+                        "bangalore": "13:50:00",
+                        "jaipur": "13:50:00",
+                        "delhi": "13:50:00"
+                    }
+                },
+                "ticket_id": null,
+                "user_id": null,
+                "source": "Bangalore",
+                "destination": "Delhi",
+                "date_of_travel": "2023-12-08T18:30:00Z"
+            }
+        ]
+    },
+    {
+        "password": "abcdef",
+        "user_id": "18d3529b-1748-477b-beec-f7e882b07572",
+        "name": "daniel",
+        "hashed_password": "$2a$10$fnw6AXdudqcZoz1ICQlk0eO7wsnajHQKVQtBqveKSW3PiaE4WG4/e",
+        "tickets_booked": []
+    }
+]
